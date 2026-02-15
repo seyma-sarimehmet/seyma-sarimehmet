@@ -1,6 +1,6 @@
 ### Hi there, I'm Şeyma! 👋
 
-I am a final-year **Mathematics Engineering** student at **Istanbul Technical University (ITU)** and a **Strategy Intern at Shell**. I am passionate about turning data into strategic decisions and building AI-driven products.
+I am a final-year **Mathematics Engineering** student at **Istanbul Technical University (ITU)**. I am passionate about turning data into strategic decisions and building AI-driven products.
 
 - 🔭 **I’m currently working on:** My Senior Graduation Project focused on **Fuel Demand Forecasting** (using hybrid models for energy market predictions).
 - 🌱 **I’m currently learning:** **Agentic AI** and **Financial Modeling**.
