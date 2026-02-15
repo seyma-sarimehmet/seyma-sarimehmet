@@ -11,3 +11,8 @@ I am a final-year **Mathematics Engineering** student at **Istanbul Technical Un
   - **Tools:** Git, Power BI, Databricks
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/seymasarimehmet/)
 - ⚡ **Fun fact:** I am trying to learn a bit from everything... and so far it is not going bad! :)
+
+---
+<p align="center">
+  <i>Made with ☕ and 💛 by Şeyma Sarımehmet</i>
+</p>
